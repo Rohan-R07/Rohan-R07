@@ -7,11 +7,13 @@
 - 💾 Exploring clean architecture, MVVM & dependency injection
 - 🚀 Sharing open-source projects, tips & clean code on GitHub
 
-## 🌟 What I love to work with:
-- ✅ Kotlin & Compose for building scalable Android apps
-- ✅ Room, DataStore & Preferences for local storage
-- ✅ Lottie animations, gradients, and Material 3 for stunning UIs
-- ✅ CI/CD & version control with GitHub Actions
+## 🌟 What I love to work with
+- ✅ **Kotlin & Jetpack Compose** for building scalable Android apps
+- ✅ **Retrofit** for seamless API integration and networking
+- ✅ **Room, DataStore & Preferences** for robust local storage
+- ✅ **Lottie animations, gradients, and Material 3** for beautiful UI/UX
+- ✅ **UI design & motion** to craft intuitive, modern experiences
+- ✅ **CI/CD & version control with GitHub Actions** for smooth deployments
 
 ## 💡 Recent projects
 - 📱 A beautiful dark/light theme notes app with Room & Compose
