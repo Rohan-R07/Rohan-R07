@@ -17,14 +17,6 @@
 
 ## 💡 Recent Projects
 
-- 📱 **Notes App**  
-  A beautiful dark/light theme notes app using Room & Jetpack Compose for persistent local storage.
-
-- 🖼️ **Animated Profile UI**  
-  Profile screens with gradient cards, custom tab rows, and smooth animations using Lottie & Compose.
-
-- 🌐 **Language Picker & Preferences**  
-  Simple examples showing how to use DataStore / Preferences for saving settings like language selection.
 
 - 🍽️ **Meals Application**  
   A clean Android app built with Retrofit & Compose that:
@@ -32,5 +24,17 @@
   - Supports adding new meals (POST) & deleting meals (DELETE)
   - Shows requests in Android Studio’s Network Inspector
   - Includes elegant Material 3 design with shimmer loading effects
+ 
+    
+- 📱 **Notes App**  
+  A beautiful dark/light theme notes app using Room & Jetpack Compose for persistent local storage.
+
+
+- 🖼️ **UI from google Stitch**  
+  Profile screens with gradient cards, custom tab rows, and smooth animations using Lottie & Compose.
+
+- 🌐 **Language Picker & Preferences**  
+  Simple examples showing how to use DataStore / Preferences for saving settings like language selection.
+
 
 ⭐ **Always learning, building & open to collaborations!**
