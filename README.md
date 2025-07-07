@@ -11,13 +11,26 @@
 - ✅ **Kotlin & Jetpack Compose** for building scalable Android apps
 - ✅ **Retrofit** for seamless API integration and networking
 - ✅ **Room, DataStore & Preferences** for robust local storage
-- ✅ **Lottie animations, gradients, and Material 3** for beautiful UI/UX
+- ✅ **Lottie animations, gradients, and Material 3 Expressive** for beautiful UI/UX
 - ✅ **UI design & motion** to craft intuitive, modern experiences
 - ✅ **CI/CD & version control with GitHub Actions** for smooth deployments
 
-## 💡 Recent projects
-- 📱 A beautiful dark/light theme notes app with Room & Compose
-- 🖼️ Animated profile screens with gradient cards and custom tab rows
-- 🌐 Language picker & persistent preferences examples
+## 💡 Recent Projects
+
+- 📱 **Notes App**  
+  A beautiful dark/light theme notes app using Room & Jetpack Compose for persistent local storage.
+
+- 🖼️ **Animated Profile UI**  
+  Profile screens with gradient cards, custom tab rows, and smooth animations using Lottie & Compose.
+
+- 🌐 **Language Picker & Preferences**  
+  Simple examples showing how to use DataStore / Preferences for saving settings like language selection.
+
+- 🍽️ **Meals Application**  
+  A clean Android app built with Retrofit & Compose that:
+  - Fetches meals from a public API
+  - Supports adding new meals (POST) & deleting meals (DELETE)
+  - Shows requests in Android Studio’s Network Inspector
+  - Includes elegant Material 3 design with shimmer loading effects
 
 ⭐ **Always learning, building & open to collaborations!**
