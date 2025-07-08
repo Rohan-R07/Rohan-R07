@@ -21,7 +21,7 @@
 - 🍽️ **Meals Application**  
   A clean Android app built with Retrofit & Compose that:
   - Fetches meals from a public API
-  - Supports fetch meals (GET)
+  - Supports fetch meals & its details using @GET (RestAPI)
   - Shows requests in Android Studio’s Network Inspector
   - Includes elegant Material 3 design with shimmer loading effects
  
