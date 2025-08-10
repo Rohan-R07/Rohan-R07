@@ -1,40 +1,79 @@
-# 👋 Hi there, I'm Rohan!
+# 👋 Hi there, I'm Rohan!  
 
-🎯 **Android Developer | Kotlin Enthusiast | UI/UX Design Explorer**
+🎯 **Android Developer | Kotlin Enthusiast | UI/UX Design Explorer | Firebase Practitioner**  
 
-- 🔥 Building modern Android apps with **Jetpack Compose**, **Room**, **DataStore** & custom animations
-- 🖌️ Designing delightful UIs with **Figma & Google Stitch**
-- 💾 Exploring clean architecture, MVVM & dependency injection
-- 🚀 Sharing open-source projects, tips & clean code on GitHub
+I’m an Android developer passionate about building modern, scalable, and aesthetically pleasing apps using the latest Android tech stack. My goal is to combine **clean architecture** with **engaging UI/UX** to craft apps that are not only functional but a joy to use.  
 
-## 🌟 What I love to work with
-- ✅ **Kotlin & Jetpack Compose** for building scalable Android apps
-- ✅ **Retrofit** for seamless API integration and networking
-- ✅ **Room, DataStore & Preferences** for robust local storage
-- ✅ **Lottie animations, gradients, and Material 3 Expressive** for beautiful UI/UX
-- ✅ **UI design & motion** to craft intuitive, modern experiences
-- ✅ **CI/CD & version control with GitHub Actions** for smooth deployments
+With hands-on experience in **Jetpack Compose**, **MVVM architecture**, and **Firebase services**, I’m constantly pushing myself to integrate more **real-time features, cloud capabilities, and analytics-driven improvements** into my projects.  
 
-## 💡 Recent Projects
+---
+
+## 🚀 What I Do Best  
+
+- **📱 App Development with Modern Android Tech**  
+  Leveraging **Kotlin**, **Jetpack Compose**, and **Material 3** to create highly responsive, dynamic, and beautiful apps.  
+
+- **☁️ Cloud Integration with Firebase**  
+  Experienced with:  
+  - **Firebase Authentication** (Google Sign-In, Email/Password, Credential Manager API)  
+  - **Cloud Firestore** (real-time queries, structured data storage, offline support)  
+  - **Firebase Crashlytics** (real-time crash tracking, analytics-driven debugging)  
+  - **Cloud Storage** (secure file and image handling)  
+  - **Firebase Analytics** (tracking usage patterns to improve UX)  
+
+- **🖌️ UI/UX Design**  
+  Designing interfaces in **Figma** & **Google Stitch**, incorporating animations, gradients, and motion to enhance user engagement.  
+
+- **💾 Robust Data Handling**  
+  Using **Room**, **DataStore**, and Preferences for local persistence, combined with **Retrofit** for API-driven content.  
+
+---
+
+## 💡 Recent Projects  
+
+### 🍽️ **Meals Application**  
+A sleek food app built with **Retrofit & Compose**:  
+- Fetches meals & details from a public REST API  
+- Displays network calls in Android Studio’s Network Inspector  
+- Incorporates **Material 3** design, shimmer loading effects, and smooth animations  
+- Clean MVVM structure for easy scalability
+- UI desgined using `Google Stitch` AI Tool
+
+### 📱 **Notes App**  
+A modern notes application featuring:  
+- Light & dark themes  
+- **Room** persistence for offline use  
+- Jetpack Compose UI with responsive layouts  
+
+### 🖼️ **UI from Google Stitch**  
+UI-focused project with:  
+- Gradient cards  
+- Custom tab rows  
+- **Lottie animations** & motion design principles  
+
+### 🌐 **Language Picker & Preferences**  
+Showcases **DataStore** usage for app settings, including dynamic language switching.  
 
 
-- 🍽️ **Meals Application**  
-  A clean Android app built with Retrofit & Compose that:
-  - Fetches meals from a public API
-  - Supports fetch meals & its details using @GET (RestAPI)
-  - Shows requests in Android Studio’s Network Inspector
-  - Includes elegant Material 3 design with shimmer loading effects
- 
-    
-- 📱 **Notes App**  
-  A beautiful dark/light theme notes app using Room & Jetpack Compose for persistent local storage.
+---
 
+## 🛠️ Tech Stack & Tools  
 
-- 🖼️ **UI from google Stitch**  
-  Profile screens with gradient cards, custom tab rows, and smooth animations using Lottie & Compose.
+- **Languages:** Kotlin, Python, C++  
+- **UI:** Jetpack Compose, Material 3, Lottie Animations, Gradients, Motion Layout  
+- **Data:** Firebase (Auth, Firestore, Crashlytics, Cloud Storage), Room, DataStore, Retrofit  
+- **Design:** Figma, Google Stitch  
+- **Version Control & CI/CD:** GitHub, GitHub Actions  
+- **Architecture:** MVVM, Clean Architecture  
 
-- 🌐 **Language Picker & Preferences**  
-  Simple examples showing how to use DataStore / Preferences for saving settings like language selection.
+---
 
+## 🌟 Career Goals  
 
-⭐ **Always learning, building & open to collaborations!**
+Currently, I’m leveling up my **cloud integration** and **real-time app development skills** to build next-gen Android experiences.  
+I’m looking forward to **internships or collaborative projects** where I can contribute to impactful apps, work in **agile teams**, and gain real-world scaling experience.  
+
+---
+
+⭐ **Always learning, building, and open to collaborations!**  
+📬 Let’s connect on **[GitHub](#)** | **[Email Me](#)**
