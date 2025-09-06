@@ -1,79 +1,91 @@
 # 👋 Hi there, I'm Rohan!  
 
-🎯 **Android Developer | Kotlin Enthusiast | UI/UX Design Explorer | Firebase Practitioner**  
+### 🎯 Android Developer | Kotlin Enthusiast | AI/ML Explorer | Firebase & Genkit Specialist  
 
-I’m an Android developer passionate about building modern, scalable, and aesthetically pleasing apps using the latest Android tech stack. My goal is to combine **clean architecture** with **engaging UI/UX** to craft apps that are not only functional but a joy to use.  
-
-With hands-on experience in **Jetpack Compose**, **MVVM architecture**, and **Firebase services**, I’m constantly pushing myself to integrate more **real-time features, cloud capabilities, and analytics-driven improvements** into my projects.  
-
----
-
-## 🚀 What I Do Best  
-
-- **📱 App Development with Modern Android Tech**  
-  Leveraging **Kotlin**, **Jetpack Compose**, and **Material 3** to create highly responsive, dynamic, and beautiful apps.  
-
-- **☁️ Cloud Integration with Firebase**  
-  Experienced with:  
-  - **Firebase Authentication** (Google Sign-In, Email/Password, Credential Manager API)  
-  - **Cloud Firestore** (real-time queries, structured data storage, offline support)  
-  - **Firebase Crashlytics** (real-time crash tracking, analytics-driven debugging)  
-  - **Cloud Storage** (secure file and image handling)  
-  - **Firebase Analytics** (tracking usage patterns to improve UX)  
-
-- **🖌️ UI/UX Design**  
-  Designing interfaces in **Figma** & **Google Stitch**, incorporating animations, gradients, and motion to enhance user engagement.  
-
-- **💾 Robust Data Handling**  
-  Using **Room**, **DataStore**, and Preferences for local persistence, combined with **Retrofit** for API-driven content.  
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)  
+![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)  
+![GitHub stars](https://img.shields.io/github/stars/yourusername?style=social)  
 
 ---
 
-## 💡 Recent Projects  
+## 🚀 About Me  
 
-### 🍽️ **Meals Application**  
-A sleek food app built with **Retrofit & Compose**:  
-- Fetches meals & details from a public REST API  
-- Displays network calls in Android Studio’s Network Inspector  
-- Incorporates **Material 3** design, shimmer loading effects, and smooth animations  
-- Clean MVVM structure for easy scalability
-- UI desgined using `Google Stitch` AI Tool
+I am an **Android developer passionate about building modern, scalable, and AI-powered applications**. I specialize in **Kotlin, Jetpack Compose, Firebase ecosystem, and emerging AI/ML technologies**.  
 
-### 📱 **Notes App**  
-A modern notes application featuring:  
-- Light & dark themes  
-- **Room** persistence for offline use  
-- Jetpack Compose UI with responsive layouts  
-
-### 🖼️ **UI from Google Stitch**  
-UI-focused project with:  
-- Gradient cards  
-- Custom tab rows  
-- **Lottie animations** & motion design principles  
-
-### 🌐 **Language Picker & Preferences**  
-Showcases **DataStore** usage for app settings, including dynamic language switching.  
-
+My development philosophy revolves around:  
+- **Clean Architecture (MVVM, MVI)**  
+- **Cloud-powered real-time experiences**  
+- **Expressive UI/UX with Material 3**  
+- **AI-driven solutions using Firebase AI Logic & Genkit**  
 
 ---
 
-## 🛠️ Tech Stack & Tools  
+## 🧠 Flagship Project — AI Summarizer & Quiz Generator  
 
-- **Languages:** Kotlin, Python, C++  
-- **UI:** Jetpack Compose, Material 3, Lottie Animations, Gradients, Motion Layout  
-- **Data:** Firebase (Auth, Firestore, Crashlytics, Cloud Storage), Room, DataStore, Retrofit  
-- **Design:** Figma, Google Stitch  
-- **Version Control & CI/CD:** GitHub, GitHub Actions  
-- **Architecture:** MVVM, Clean Architecture  
+### Overview  
+This is my most ambitious project so far — a **Ai Study Partner app** that leverages **Firebase AI Logic** and **Material 3 Expressive UI**.
+
+### Key Features  
+- **YouTube Video Summarization** – Extracts and summarizes videos which you can copy
+- **PDF Summarization** – Upload any PDF and get a structured summary instantly  
+- **AI Quiz Generator** – Creates quizzes with:  
+  - Dynamic questions (ID, text, options)  
+  - Correct answers & explanations  
+  - JSON-based structured output for easy UI binding  
+- **Modern UI** – Built using Jetpack Compose + Material 3 expressive design principles  
+
+### Impact  
+- Saves hours of manual content processing  
+- Designed for students, researchers, and professionals  
+- Future-ready for **AI/ML integration (NLP, LLM-based fine-tuning)**  
+
+---
+
+## 💡 Other Projects  
+
+### 🍽️ Meals Application  
+- REST API integration (Retrofit + Compose)  
+- Material 3 UI with shimmer effects & smooth animations  
+- MVVM architecture  
+
+### 📝 Notes App  
+- Offline-first design with Room  
+- Dark & light themes  
+- Jetpack Compose UI  
+
+### 🌐 Language Picker  
+- Dynamic language switching with DataStore  
+
+---
+
+## 🛠 Tech Stack  
+
+- **Languages**: Kotlin, Python, C++  
+- **UI**: Jetpack Compose, Material 3 Expressive, Motion Layout, Lottie Animations  
+- **AI & Cloud**: Firebase AI Logic, Firebase Genkit, Firestore, Firebase Auth (Google, Facebook, GitHub, Email), Cloud Storage, Crashlytics, Analytics  
+- **Data Layer**: Room, DataStore, Retrofit  
+- **Design Tools**: Figma, Google Stitch  
+- **CI/CD & Version Control**: GitHub, GitHub Actions  
+- **Architectures**: MVVM, Clean Architecture  
 
 ---
 
 ## 🌟 Career Goals  
 
-Currently, I’m leveling up my **cloud integration** and **real-time app development skills** to build next-gen Android experiences.  
-I’m looking forward to **internships or collaborative projects** where I can contribute to impactful apps, work in **agile teams**, and gain real-world scaling experience.  
+I’m on a journey to become a **specialized AI/ML, Android Engineer**, building **next-gen mobile applications powered by artificial intelligence**.  
+Open to:  
+- **AI-driven Android development internships**  
+- **Collaborative open-source projects**  
+- **Full-time roles focusing on mobile AI, cloud, and ML integration**  
 
 ---
 
-⭐ **Always learning, building, and open to collaborations!**  
-📬 Let’s connect on **[GitHub](#)** | **[Email Me](#)**
+## 📫 Let's Connect  
+
+- **GitHub**: [github.com/yourusername]([https://github.com/yourusername](https://github.com/Rohan-R07/Rohan-R07))  
+- **LinkedIn**: [linkedin.com/in/yourusername]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/rohan-r-69a38b372/))  
+- **Email**: 2007rohanrajesh@gmail.com
+
+---
+
+*⭐ Always learning, building, and open to collaborations!*
