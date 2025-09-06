@@ -79,8 +79,8 @@ Open to:
 
 ## 📫 Let's Connect  
 
-- **GitHub**: [github.com/yourusername]([https://github.com/yourusername](https://github.com/Rohan-R07/Rohan-R07))  
-- **LinkedIn**: [linkedin.com/in/yourusername]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/rohan-r-69a38b372/))  
+- **GitHub**: [github.com]([https://github.com/yourusername](https://github.com/Rohan-R07/Rohan-R07))  
+- **LinkedIn**: [linkedin]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/rohan-r-69a38b372/))  
 - **Email**: 2007rohanrajesh@gmail.com
 
 ---
