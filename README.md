@@ -2,9 +2,6 @@
 
 ### 🎯 Android Developer | Kotlin Enthusiast | AI/ML Explorer | Firebase & Genkit Specialist  
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)  
-![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)  
-![GitHub stars](https://img.shields.io/github/stars/yourusername?style=social)  
 
 ---
 
