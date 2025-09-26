@@ -1,83 +1,118 @@
-# 👋 Hi there, I'm Rohan!  
+# 👋 Hi, I’m Rohan  
 
-### 🎯 Android Developer | Kotlin Enthusiast | AI/ML Explorer | Firebase & Genkit Specialist  
-
-
----
-
-## 🚀 About Me  
-
-I am an **Android developer passionate about building modern, scalable, and AI-powered applications**. I specialize in **Kotlin, Jetpack Compose, Firebase ecosystem, and emerging AI/ML technologies**.  
-
-My development philosophy revolves around:  
-- **Clean Architecture (MVVM, MVI)**  
-- **Cloud-powered real-time experiences**  
-- **Expressive UI/UX with Material 3**  
-- **AI-driven solutions using Firebase AI Logic & Genkit**  
+### 🚀 Android Developer | Kotlin | Jetpack Compose | Firebase AI | ML Explorer  
 
 ---
 
-## 🧠 Flagship Project — AI Summarizer & Quiz Generator  
+## 🔥 What I Do  
 
-### Overview  
-This is my most ambitious project so far — a **Ai Study Partner app** that leverages **Firebase AI Logic** and **Material 3 Expressive UI**.
+I build **modern Android applications** that combine:  
+- **Jetpack Compose + Material 3** for expressive UIs  
+- **Clean Architecture (MVVM, MVI)** for maintainable codebases  
+- **Firebase & Genkit** for real-time, cloud-powered, and AI-driven features  
+- **AI/ML integration** to bring intelligence into mobile apps  
 
-### Key Features  
-- **YouTube Video Summarization** – Extracts and summarizes videos which you can copy
-- **PDF Summarization** – Upload any PDF and get a structured summary instantly  
-- **AI Quiz Generator** – Creates quizzes with:  
-  - Dynamic questions (ID, text, options)  
-  - Correct answers & explanations  
-  - JSON-based structured output for easy UI binding  
-- **Modern UI** – Built using Jetpack Compose + Material 3 expressive design principles  
-
-### Impact  
-- Saves hours of manual content processing  
-- Designed for students, researchers, and professionals  
-- Future-ready for **AI/ML integration (NLP, LLM-based fine-tuning)**  
+My work focuses on creating **practical apps** with **solid engineering** — no toy demos, but real-world use cases like summarization, quizzes, content automation, and multi-language support.  
 
 ---
 
-## 💡 Other Projects  
+## 🧠 Highlight Project — AI Summarizer & Quiz Generator  
 
-### 🍽️ Meals Application  
-- REST API integration (Retrofit + Compose)  
-- Material 3 UI with shimmer effects & smooth animations  
-- MVVM architecture  
+An end-to-end **AI study partner** built with Kotlin + Firebase AI Logic.  
 
-### 📝 Notes App  
-- Offline-first design with Room  
-- Dark & light themes  
+### 🔎 Features  
+- **📺 YouTube Summarizer** – Extracts captions, summarizes video content into key points  
+- **📄 PDF Summarizer** – Upload any PDF, preview, copy results, regenerate summaries  
+- **📝 Quiz Generator** – Converts documents into structured quizzes:  
+  - JSON-based format (id, question, options, correct answer, explanation)  
+  - Ready to bind directly into Jetpack Compose UIs  
+- **🎨 Modern UI** – Material 3 components, Compose animations, responsive layouts  
+
+### 🛠 Stack  
+- **Kotlin, Jetpack Compose, Material 3**  
+- **Firebase AI Logic + Genkit**  
+- **Firestore, Firebase Auth, Storage**  
+- **Clean Architecture + MVVM**  
+
+---
+
+## 📗 AI Study Planner  
+
+A comprehensive Android app that merges AI and productivity.  
+
+### 🔎 Features  
+- **Onboarding & Google Auth** (Firebase)  
+- **Home Dashboard** with “AI Study Tip of the Day” + Recents  
+- **Expandable FAB** for Summarize YT, Summarize PDF, Generate Quiz  
+- **Quiz Module** with progress indicators, navigation, and result summaries  
+- **Profile Screen** with user info, app settings, sign-out  
+- **Crashlytics** integrated for live error tracking  
+
+### 🛠 Stack  
+- Kotlin · Jetpack Compose Navigation 3  
+- Firebase Auth · Firestore · AI Logic · Crashlytics  
+- File Picker · Material 3  
+
+---
+
+## 🍽️ Meals Application  
+
+A food recipe app demonstrating REST APIs + modern Android practices.  
+
+- Retrofit for API integration  
+- Compose UI with shimmer placeholders  
+- MVVM + Material 3  
+
+---
+
+## 📝 Notes App  
+
+Minimal offline-first notes application.  
+
+- Room database persistence  
+- Theming (light & dark)  
 - Jetpack Compose UI  
 
-### 🌐 Language Picker  
-- Dynamic language switching with DataStore  
+---
+
+## 🌐 Language Picker  
+
+Utility app for internationalization.  
+
+- DataStore for persistent dynamic language switching  
+- Simple UI/UX flow  
 
 ---
 
-## 🛠 Tech Stack  
+## 🛠 Tech Toolbox  
 
-- **Languages**: Kotlin, Python, C++  
-- **UI**: Jetpack Compose, Material 3 Expressive, Motion Layout, Lottie Animations  
-- **AI & Cloud**: Firebase AI Logic, Firebase Genkit, Firestore, Firebase Auth (Google, Facebook, GitHub, Email), Cloud Storage, Crashlytics, Analytics  
-- **Data Layer**: Room, DataStore, Retrofit  
-- **Design Tools**: Figma, Google Stitch  
-- **CI/CD & Version Control**: GitHub, GitHub Actions  
-- **Architectures**: MVVM, Clean Architecture  
-
----
-
-## 🌟 Career Goals  
-
-I’m on a journey to become a **specialized AI/ML, Android Engineer**, building **next-gen mobile applications powered by artificial intelligence**.  
-Open to:  
-- **AI-driven Android development internships**  
-- **Collaborative open-source projects**  
-- **Full-time roles focusing on mobile AI, cloud, and ML integration**  
+**Languages**: Kotlin, Python, C++  
+**UI Frameworks**: Jetpack Compose, Material 3, Motion Layout, Lottie  
+**Cloud & AI**: Firebase (AI Logic, Genkit, Firestore, Auth, Crashlytics, Analytics, Storage)  
+**Data Layer**: Room, DataStore, Retrofit  
+**Design**: Figma, Google Stitch  
+**DevOps & VCS**: GitHub, GitHub Actions  
+**Architectures**: MVVM, MVI, Clean Architecture  
 
 ---
 
-## 📫 Let's Connect  
+## 📊 GitHub Stats  
+
+![Rohan’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rohan-R07&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan-R07&layout=compact&theme=radical)  
+
+---
+
+## 📫 Connect  
+
+- **GitHub:** [github.com/Rohan-R07](https://github.com/Rohan-R07)  
+- **LinkedIn:** [linkedin.com/in/rohan-r-69a38b372](https://linkedin.com/in/rohan-r-69a38b372)  
+- **Email:** 2007rohanrajesh@gmail.com  
+
+---
+
+⭐ Always learning. Always building.  
+
 
 - **GitHub**: [github.com/Rohan-R07](https://github.com/Rohan-R07)
 - **LinkedIn**: [linkedin.com/in/rohan-r-69a38b372](https://www.linkedin.com/in/rohan-r-69a38b372/)
