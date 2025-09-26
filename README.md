@@ -98,7 +98,6 @@ Utility app for internationalization.
 
 ## 📊 GitHub Stats  
 
-![Rohan’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rohan-R07&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan-R07&layout=compact&theme=radical)  
 
 ---
@@ -108,15 +107,6 @@ Utility app for internationalization.
 - **GitHub:** [github.com/Rohan-R07](https://github.com/Rohan-R07)  
 - **LinkedIn:** [linkedin.com/in/rohan-r-69a38b372](https://linkedin.com/in/rohan-r-69a38b372)  
 - **Email:** 2007rohanrajesh@gmail.com  
-
----
-
-⭐ Always learning. Always building.  
-
-
-- **GitHub**: [github.com/Rohan-R07](https://github.com/Rohan-R07)
-- **LinkedIn**: [linkedin.com/in/rohan-r-69a38b372](https://www.linkedin.com/in/rohan-r-69a38b372/)
-- **Email**: 2007rohanrajesh@gmail.com
 
 ---
 
