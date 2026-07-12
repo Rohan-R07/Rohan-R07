@@ -1,115 +1,174 @@
+# <div align="center">Hi, I'm Rohan R 👋</div>
 
+<div align="center">
 
-# 👋 Hi, I’m Rohan  
+### AI Software Engineer • Android Developer • Open Source Contributor
 
-### 🚀 Android Developer | Kotlin | Jetpack Compose | Firebase AI / ML Explorer  
+Building AI-powered products that solve real-world problems.
 
----
-
-## 🔥 What I Do  
-
-I build **modern Android applications** that combine:  
-- **Jetpack Compose + Material 3** for expressive UIs  
-- **Clean Architecture (MVVM, MVI)** for maintainable codebases  
-- **Firebase & Genkit** for real-time, cloud-powered, and AI-driven features  
-- **AI/ML integration** to bring intelligence into mobile apps  
-
-My work focuses on creating **practical apps** with **solid engineering** — no toy demos, but real-world use cases like summarization, quizzes, content automation, and multi-language support.  
+</div>
 
 ---
 
-## 🧠 Highlight Project — AI Summarizer & Quiz Generator  
+# 🚀 About Me
 
-An end-to-end **AI study partner** built with Kotlin + Firebase AI Logic.  
+I'm an engineering student passionate about building production-oriented AI applications across healthcare, education, legal technology and agriculture.
 
-### 🔎 Features  
-- **📺 YouTube Summarizer** – Extracts captions, summarizes video content into key points  
-- **📄 PDF Summarizer** – Upload any PDF, preview, copy results, regenerate summaries  
-- **📝 Quiz Generator** – Converts documents into structured quizzes:  
-  - JSON-based format (id, question, options, correct answer, explanation)  
-  - Ready to bind directly into Jetpack Compose UIs  
-- **🎨 Modern UI** – Material 3 components, Compose animations, responsive layouts  
-
-### 🛠 Stack  
-- **Kotlin, Jetpack Compose, Material 3**  
-- **Firebase AI Logic + Genkit**  
-- **Firestore, Firebase Auth, Storage**  
-- **Clean Architecture + MVVM**  
+- 🤖 AI Engineering & Agentic AI
+- 📱 Native Android Development (Jetpack Compose)
+- ⚡ FastAPI & Python Backend Development
+- 🔥 Firebase Ecosystem
+- 🌱 Open Source Contributor
+- 🏆 Hackathon Builder
 
 ---
 
-## 📗 AI Study Planner  
+# 🧠 AI Engineer Dashboard
 
-A comprehensive Android app that merges AI and productivity.  
-
-### 🔎 Features  
-- **Onboarding & Google Auth** (Firebase)  
-- **Home Dashboard** with “AI Study Tip of the Day” + Recents  
-- **Expandable FAB** for Summarize YT, Summarize PDF, Generate Quiz  
-- **Quiz Module** with progress indicators, navigation, and result summaries  
-- **Profile Screen** with user info, app settings, sign-out  
-- **Crashlytics** integrated for live error tracking  
-
-### 🛠 Stack  
-- Kotlin · Jetpack Compose Navigation 3  
-- Firebase Auth · Firestore · AI Logic · Crashlytics  
-- File Picker · Material 3  
+```text
+Focus           → AI Products
+Primary Stack   → Kotlin • Python
+Backend         → FastAPI
+AI              → Gemini • Hugging Face • Genkit
+Current Goal    → Production-grade AI Systems
+```
 
 ---
 
-## 🍽️ Meals Application  
+# 🛠 Tech Stack
 
-A food recipe app demonstrating REST APIs + modern Android practices.  
+## Languages
+`Kotlin` `Python` `C++` `JavaScript` `TypeScript`
 
-- Retrofit for API integration  
-- Compose UI with shimmer placeholders  
-- MVVM + Material 3  
+## Android
+`Jetpack Compose` `Material 3` `Firebase`
 
----
+## Backend
+`FastAPI` `REST APIs`
 
-## 📝 Notes App  
+## AI
+`Gemini` `Hugging Face` `Genkit` `RAG`
 
-Minimal offline-first notes application.  
-
-- Room database persistence  
-- Theming (light & dark)  
-- Jetpack Compose UI  
-
----
-
-## 🌐 Language Picker  
-
-Utility app for internationalization.  
-
-- DataStore for persistent dynamic language switching  
-- Simple UI/UX flow  
+## Cloud
+`Firebase` `Render` `Vercel` `GitHub Actions`
 
 ---
 
-## 🛠 Tech Toolbox  
+# 🌟 Featured Projects
 
-**Languages**: Kotlin, Python, C++  
-**UI Frameworks**: Jetpack Compose, Material 3, Motion Layout, Lottie  
-**Cloud & AI**: Firebase (AI Logic, Genkit, Firestore, Auth, Crashlytics, Analytics, Storage)  
-**Data Layer**: Room, DataStore, Retrofit  
-**Design**: Figma, Google Stitch  
-**DevOps & VCS**: GitHub, GitHub Actions  
-**Architectures**: MVVM, MVI, Clean Architecture  
+<details>
+<summary><b>🩺 AI Medical Report Analyzer</b></summary>
+
+AI-powered application that analyzes CBC reports and generates intelligent clinical insights.
+
+**Highlights**
+- PDF parsing
+- AI-assisted analysis
+- Healthcare workflow
+- Full-stack architecture
+
+</details>
+
+<details>
+<summary><b>📚 AI Study Planner</b></summary>
+
+Native Android app built using Jetpack Compose and Firebase AI for summarization and quiz generation.
+
+</details>
+
+<details>
+<summary><b>⚖️ AI Legal Aid Agent</b></summary>
+
+AI assistant focused on simplifying legal guidance and improving accessibility.
+
+</details>
+
+<details>
+<summary><b>🌾 AgroAI</b></summary>
+
+AI platform for crop analysis, disease detection, weather insights and farming assistance.
+
+</details>
 
 ---
 
-## 📊 GitHub Stats  
+# 🌍 Open Source
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan-R07&layout=compact&theme=radical)  
-
----
-
-## 📫 Connect  
-
-- **GitHub:** [github.com/Rohan-R07](https://github.com/Rohan-R07)  
-- **LinkedIn:** [linkedin.com/in/rohan-r-69a38b372](https://linkedin.com/in/rohan-r-69a38b372)  
-- **Email:** 2007rohanrajesh@gmail.com  
+- GirlScript Summer of Code (GSSoC)
+- EaseMotion CSS contributions
+- Community issue fixes and improvements
 
 ---
 
-*⭐ Always learning, building, and open to collaborations!*
+# 🏅 Leadership
+
+- Event Head — Prompt Wars
+- Zero Error Coding Club
+
+---
+
+# 📈 GitHub Analytics
+
+Replace `Rohan-R07` below if your username changes.
+
+```md
+![Stats](https://github-readme-stats.vercel.app/api?username=Rohan-R07&show_icons=true&theme=tokyonight)
+
+![Streak](https://streak-stats.demolab.com?user=Rohan-R07&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan-R07&layout=compact&theme=tokyonight)
+```
+
+---
+
+# 📊 Contribution Graph
+
+```md
+https://github-readme-activity-graph.vercel.app/graph?username=Rohan-R07&theme=tokyo-night
+```
+
+---
+
+# 🐍 Contribution Snake
+
+```md
+https://raw.githubusercontent.com/Rohan-R07/Rohan-R07/output/github-contribution-grid-snake.svg
+```
+
+---
+
+# 🎯 Current Focus
+
+```yaml
+learning:
+  - LangChain
+  - LangGraph
+  - MCP
+  - Distributed Systems
+
+building:
+  - AI Medical Report Analyzer
+  - AgroAI
+
+exploring:
+  - Multi-Agent Systems
+  - AI Infrastructure
+
+open_to:
+  - Open Source
+  - AI Engineering Internships
+  - Hackathons
+```
+
+---
+
+# 📫 Connect
+
+- GitHub: https://github.com/Rohan-R07
+- LinkedIn: Add your LinkedIn URL
+- Email: Add your professional email
+- Portfolio: Coming Soon
+
+---
+
+> "Build software that creates impact—not just impressions."
