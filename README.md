@@ -164,3 +164,303 @@ Every project I build follows the same mindset:
 - Startup Opportunities
 
 ---
+
+
+
+# ⚡ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=kotlin,java,python,cpp,js,ts,html,css" />
+
+</p>
+
+### 📱 Mobile Development
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=androidstudio,firebase,kotlin" />
+
+</p>
+
+- Native Android Development
+- Jetpack Compose
+- Material Design 3
+- MVVM Architecture
+- Firebase Integration
+- AI-powered Android Applications
+
+---
+
+### 🌐 Frontend Development
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
+
+</p>
+
+- React
+- Next.js
+- Tailwind CSS
+- Responsive UI
+- Modern Component Architecture
+
+---
+
+### ⚙️ Backend Engineering
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,postgres,mysql" />
+
+</p>
+
+- FastAPI
+- REST APIs
+- JWT Authentication
+- PostgreSQL
+- MySQL
+- API Design
+- Backend Architecture
+
+---
+
+### 🤖 Artificial Intelligence
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+
+</p>
+
+## AI Ecosystem
+
+| Technology | Purpose |
+|------------|---------|
+| Gemini | Large Language Models |
+| Hugging Face | Open Source AI |
+| Genkit | AI Workflows |
+| OpenRouter | Multi Model Routing |
+| RAG | Knowledge Retrieval |
+| Prompt Engineering | Production AI |
+| Vector Search | Context Retrieval |
+| AI Agents | Agentic Systems |
+
+---
+
+### ☁️ Cloud & DevOps
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=firebase,git,github,githubactions,docker,vercel,linux" />
+
+</p>
+
+- Firebase
+- GitHub Actions
+- Docker
+- Linux
+- Render
+- Vercel
+- CI/CD
+
+---
+
+### 🛠 Development Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,androidstudio,idea,pycharm,figma,postman,git" />
+
+</p>
+
+---
+
+# 🧠 AI Engineering Matrix
+
+| Domain | Proficiency | Technologies | Experience |
+|---------|------------|--------------|------------|
+| LLM Applications | ██████████ | Gemini, Hugging Face | Production |
+| Prompt Engineering | ██████████ | Structured Prompting | Advanced |
+| RAG Systems | ████████░░ | Retrieval Pipelines | Intermediate |
+| Agentic AI | ███████░░░ | AI Agents | Learning |
+| Backend AI | █████████░ | FastAPI + AI APIs | Advanced |
+| Android AI | █████████░ | Gemini Integration | Advanced |
+| REST APIs | ██████████ | FastAPI | Advanced |
+| Cloud Deployment | ████████░░ | Firebase, Render | Intermediate |
+
+---
+
+# 📊 Engineering Snapshot
+
+| Category | Details |
+|----------|---------|
+| 💻 Primary Language | Kotlin |
+| 🐍 Backend Language | Python |
+| 🤖 AI Framework | Gemini + Hugging Face |
+| 📱 Mobile Stack | Jetpack Compose |
+| ⚡ Backend | FastAPI |
+| 🔥 Cloud | Firebase |
+| 🌐 Frontend | Next.js |
+| 🛢 Database | PostgreSQL |
+| 🚀 Deployment | Render + Vercel |
+| 💡 Interests | AI Agents, RAG, LLMs, Product Engineering |
+
+---
+
+# 🚀 Current Tech Focus
+
+<table>
+
+<tr>
+
+<td width="33%">
+
+## 📚 Learning
+
+- LangChain
+- LangGraph
+- MCP
+- Distributed Systems
+- AI Infrastructure
+- Docker
+- Kubernetes
+
+</td>
+
+<td width="33%">
+
+## ⚡ Building
+
+- AI Medical Report Analyzer
+- CarbonCoach AI
+- AgroAI
+- AI Legal Assistant
+- AI Study Planner
+
+</td>
+
+<td width="33%">
+
+## 🎯 Exploring
+
+- Multi-Agent Systems
+- AI Memory
+- Vector Databases
+- Autonomous Agents
+- Enterprise AI
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📈 Development Journey
+
+```text
+2023
+│
+├── Started Android Development
+│
+├── Kotlin & Jetpack Compose
+│
+├── Firebase Integration
+│
+├── Built Native Android Apps
+│
+├── Open Source Contributions
+│
+├── Learned Python
+│
+├── FastAPI Backend Development
+│
+├── Started Building AI Projects
+│
+├── LLM Applications
+│
+├── AI + Android Integration
+│
+├── GSSoC Open Source
+│
+├── Prompt Wars Event Head
+│
+├── AI Product Development
+│
+└── 🚀 Building Production-Grade AI Systems
+```
+
+---
+
+# 🏆 Engineering Highlights
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 🤖 Artificial Intelligence
+
+✔ AI Medical Report Analyzer
+
+✔ CarbonCoach AI
+
+✔ AgroAI
+
+✔ AI Study Planner
+
+✔ AI Legal Assistant
+
+✔ Gemini Integration
+
+✔ Hugging Face
+
+✔ FastAPI AI APIs
+
+</td>
+
+<td width="50%">
+
+### 💻 Software Engineering
+
+✔ Android Development
+
+✔ Backend APIs
+
+✔ PostgreSQL
+
+✔ Firebase
+
+✔ GitHub Actions
+
+✔ Open Source
+
+✔ Hackathons
+
+✔ Product Engineering
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🌟 Core Engineering Principles
+
+> **Build products that people use.**
+
+> **Write clean, maintainable code.**
+
+> **Keep learning by shipping.**
+
+> **AI is a tool—the product comes first.**
+
+> **Every project should solve a real problem.**
+
+---
