@@ -1,5 +1,4 @@
 <!-- ========================= HEADER ========================= -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=Rohan%20R&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Software%20Engineer%20•%20Android%20Developer%20•%20Open%20Source%20Contributor&descAlignY=58" />
 </p>
@@ -140,7 +139,6 @@ Every project I build follows the same mindset:
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Rohan-R07&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 ![](https://streak-stats.demolab.com/?user=Rohan-R07&theme=ocean_dark&hide_border=false)<br/>
 
