@@ -166,7 +166,6 @@ Every project I build follows the same mindset:
 ---
 
 
-
 # ⚡ Tech Stack
 
 <p align="center">
@@ -175,11 +174,15 @@ Every project I build follows the same mindset:
 
 </p>
 
-### 📱 Mobile Development
+---
+
+## 📱 Mobile Development
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=androidstudio,firebase,kotlin" />
+<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,firebase" />
+
+<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
 
 </p>
 
@@ -192,11 +195,11 @@ Every project I build follows the same mindset:
 
 ---
 
-### 🌐 Frontend Development
+## 🌐 Frontend Development
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
 
 </p>
 
@@ -208,11 +211,11 @@ Every project I build follows the same mindset:
 
 ---
 
-### ⚙️ Backend Engineering
+## ⚙️ Backend Engineering
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,postgres,mysql" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres" />
 
 </p>
 
@@ -220,40 +223,58 @@ Every project I build follows the same mindset:
 - REST APIs
 - JWT Authentication
 - PostgreSQL
-- MySQL
 - API Design
 - Backend Architecture
 
 ---
 
-### 🤖 Artificial Intelligence
+## 🤖 Artificial Intelligence
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LangGraph-6B46C1?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Google%20ADK-34A853?style=for-the-badge&logo=google&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Genkit-7F52FF?style=for-the-badge"/>
 
 </p>
 
-## AI Ecosystem
+### AI Ecosystem
 
 | Technology | Purpose |
 |------------|---------|
-| Gemini | Large Language Models |
-| Hugging Face | Open Source AI |
-| Genkit | AI Workflows |
-| OpenRouter | Multi Model Routing |
+| Gemini | Production LLM Applications |
+| Hugging Face | Open Source Models & Inference |
+| LangChain | AI Workflows & Tool Calling |
+| LangGraph | Stateful Multi-Agent Systems |
+| Google ADK | Agent Development |
+| Ollama | Local LLM Deployment |
+| Genkit | AI Application Development |
+| OpenRouter | Multi-Model Routing |
 | RAG | Knowledge Retrieval |
-| Prompt Engineering | Production AI |
-| Vector Search | Context Retrieval |
-| AI Agents | Agentic Systems |
+| Prompt Engineering | Reliable LLM Systems |
+| AI Agents | Autonomous AI Applications |
 
 ---
 
-### ☁️ Cloud & DevOps
+## ☁️ Cloud & DevOps
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=firebase,git,github,githubactions,docker,vercel,linux" />
+<img src="https://skillicons.dev/icons?i=firebase,git,github,githubactions,docker,linux" />
+
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel"/>
 
 </p>
 
@@ -267,200 +288,22 @@ Every project I build follows the same mindset:
 
 ---
 
-### 🛠 Development Tools
+## 🛠 Development Tools
 
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=vscode,androidstudio,idea,pycharm,figma,postman,git" />
 
+<img src="https://img.shields.io/badge/Antigravity-AI-7F52FF?style=for-the-badge"/>
+
 </p>
 
----
-
-# 🧠 AI Engineering Matrix
-
-| Domain | Proficiency | Technologies | Experience |
-|---------|------------|--------------|------------|
-| LLM Applications | ██████████ | Gemini, Hugging Face | Production |
-| Prompt Engineering | ██████████ | Structured Prompting | Advanced |
-| RAG Systems | ████████░░ | Retrieval Pipelines | Intermediate |
-| Agentic AI | ███████░░░ | AI Agents | Learning |
-| Backend AI | █████████░ | FastAPI + AI APIs | Advanced |
-| Android AI | █████████░ | Gemini Integration | Advanced |
-| REST APIs | ██████████ | FastAPI | Advanced |
-| Cloud Deployment | ████████░░ | Firebase, Render | Intermediate |
-
----
-
-# 📊 Engineering Snapshot
-
-| Category | Details |
-|----------|---------|
-| 💻 Primary Language | Kotlin |
-| 🐍 Backend Language | Python |
-| 🤖 AI Framework | Gemini + Hugging Face |
-| 📱 Mobile Stack | Jetpack Compose |
-| ⚡ Backend | FastAPI |
-| 🔥 Cloud | Firebase |
-| 🌐 Frontend | Next.js |
-| 🛢 Database | PostgreSQL |
-| 🚀 Deployment | Render + Vercel |
-| 💡 Interests | AI Agents, RAG, LLMs, Product Engineering |
-
----
-
-# 🚀 Current Tech Focus
-
-<table>
-
-<tr>
-
-<td width="33%">
-
-## 📚 Learning
-
-- LangChain
-- LangGraph
-- MCP
-- Distributed Systems
-- AI Infrastructure
-- Docker
-- Kubernetes
-
-</td>
-
-<td width="33%">
-
-## ⚡ Building
-
-- AI Medical Report Analyzer
-- CarbonCoach AI
-- AgroAI
-- AI Legal Assistant
-- AI Study Planner
-
-</td>
-
-<td width="33%">
-
-## 🎯 Exploring
-
-- Multi-Agent Systems
-- AI Memory
-- Vector Databases
-- Autonomous Agents
-- Enterprise AI
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 📈 Development Journey
-
-```text
-2023
-│
-├── Started Android Development
-│
-├── Kotlin & Jetpack Compose
-│
-├── Firebase Integration
-│
-├── Built Native Android Apps
-│
-├── Open Source Contributions
-│
-├── Learned Python
-│
-├── FastAPI Backend Development
-│
-├── Started Building AI Projects
-│
-├── LLM Applications
-│
-├── AI + Android Integration
-│
-├── GSSoC Open Source
-│
-├── Prompt Wars Event Head
-│
-├── AI Product Development
-│
-└── 🚀 Building Production-Grade AI Systems
-```
-
----
-
-# 🏆 Engineering Highlights
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-### 🤖 Artificial Intelligence
-
-✔ AI Medical Report Analyzer
-
-✔ CarbonCoach AI
-
-✔ AgroAI
-
-✔ AI Study Planner
-
-✔ AI Legal Assistant
-
-✔ Gemini Integration
-
-✔ Hugging Face
-
-✔ FastAPI AI APIs
-
-</td>
-
-<td width="50%">
-
-### 💻 Software Engineering
-
-✔ Android Development
-
-✔ Backend APIs
-
-✔ PostgreSQL
-
-✔ Firebase
-
-✔ GitHub Actions
-
-✔ Open Source
-
-✔ Hackathons
-
-✔ Product Engineering
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 🌟 Core Engineering Principles
-
-> **Build products that people use.**
-
-> **Write clean, maintainable code.**
-
-> **Keep learning by shipping.**
-
-> **AI is a tool—the product comes first.**
-
-> **Every project should solve a real problem.**
-
----
+- Visual Studio Code
+- Android Studio
+- IntelliJ IDEA
+- PyCharm
+- Postman
+- Git
+- GitHub
+- Figma
+- Antigravity AI
