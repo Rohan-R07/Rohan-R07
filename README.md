@@ -307,3 +307,369 @@ Every project I build follows the same mindset:
 - GitHub
 - Figma
 - Antigravity AI
+
+
+
+# 🚀 Featured Products
+
+> *Building AI-powered software that solves real-world problems across healthcare, sustainability, education, and legal technology.*
+
+---
+
+<details open>
+<summary>
+
+# 🩺 AI Medical Report Analyzer
+
+### Production AI Healthcare Platform
+
+</summary>
+
+<br>
+
+### 📖 Overview
+
+The **AI Medical Report Analyzer** is an intelligent healthcare assistant that helps users understand complex medical reports using Large Language Models.
+
+Instead of overwhelming users with technical terminology, the platform extracts information from pathology reports and provides simplified explanations, health insights, and AI-generated recommendations.
+
+---
+
+### 🎯 Problem Statement
+
+Reading medical reports can be difficult for patients without a medical background.
+
+Most reports contain technical terminology that often leads to confusion and unnecessary anxiety.
+
+This project bridges the gap between complex healthcare data and understandable insights.
+
+---
+
+### 💡 Solution
+
+The application combines PDF processing, structured data extraction, and Generative AI to create an interactive healthcare assistant capable of:
+
+- Understanding pathology reports
+- Explaining biomarkers
+- Highlighting abnormal values
+- Suggesting lifestyle improvements
+- Providing educational insights
+
+---
+
+## 🏗 Architecture
+
+```text
+                PDF Upload
+                     │
+                     ▼
+            Text Extraction
+                     │
+                     ▼
+            Parameter Detection
+                     │
+                     ▼
+            Gemini AI Analysis
+                     │
+                     ▼
+          Structured Report
+                     │
+                     ▼
+          Interactive Dashboard
+```
+
+---
+
+## ✨ Features
+
+| Feature | Status |
+|----------|:------:|
+| PDF Upload | ✅ |
+| AI Report Summary | ✅ |
+| CBC Analysis | ✅ |
+| Biomarker Detection | ✅ |
+| Gemini Integration | ✅ |
+| FastAPI Backend | ✅ |
+| PostgreSQL Database | ✅ |
+| Authentication | 🚧 |
+| Report History | 🚧 |
+
+---
+
+## 🛠 Tech Stack
+
+| Layer | Technology |
+|---------|------------|
+| Frontend | Next.js |
+| Backend | FastAPI |
+| AI | Gemini |
+| Database | PostgreSQL |
+| Authentication | JWT |
+| Deployment | Render + Vercel |
+
+---
+
+## 📈 Impact
+
+✔ Simplifies medical reports
+
+✔ AI-powered explanations
+
+✔ Healthcare accessibility
+
+✔ Production backend
+
+✔ Scalable architecture
+
+---
+
+## 🔮 Future Roadmap
+
+- OCR Support
+- Doctor Dashboard
+- Multi-language Reports
+- AI Health Chat
+- Medical History Timeline
+
+---
+
+### ⭐ Repository
+
+> *(Add Repository Link)*
+
+</details>
+
+---
+
+<details>
+
+<summary>
+
+# 🌱 CarbonCoach AI
+
+### AI Sustainability Platform
+
+</summary>
+
+<br>
+
+### 📖 Overview
+
+CarbonCoach AI empowers individuals to understand and reduce their carbon footprint through intelligent AI-driven recommendations.
+
+---
+
+### 🎯 Goal
+
+Encourage sustainable living by helping users make informed environmental decisions.
+
+---
+
+## ✨ Features
+
+- Carbon Footprint Tracking
+- Personalized Recommendations
+- Sustainability Score
+- AI Insights
+- Daily Eco Challenges
+
+---
+
+## 🛠 Tech Stack
+
+| Layer | Technology |
+|---------|------------|
+| Mobile | Android |
+| AI | Gemini |
+| Backend | Firebase |
+| Database | Firestore |
+
+---
+
+## 🚀 Future Plans
+
+- Community Challenges
+- Carbon Leaderboard
+- AI Coach
+- Smart Tracking
+
+---
+
+### ⭐ Repository
+
+> *(Add Repository Link)*
+
+</details>
+
+---
+
+<details>
+
+<summary>
+
+# 🌾 AgroAI
+
+### AI for Smart Agriculture
+
+</summary>
+
+<br>
+
+### 📖 Overview
+
+AgroAI is designed to assist farmers with intelligent recommendations, crop insights, and agricultural guidance using AI.
+
+---
+
+### Features
+
+- Crop Guidance
+- Disease Identification
+- AI Chat
+- Smart Recommendations
+- Farmer Assistance
+
+---
+
+### Stack
+
+FastAPI • Gemini • Firebase • Next.js
+
+---
+
+### Future
+
+- Image Detection
+- Weather Integration
+- Soil Analysis
+
+---
+
+</details>
+
+---
+
+<details>
+
+<summary>
+
+# ⚖️ AI Legal Assistant
+
+### Making Legal Knowledge Accessible
+
+</summary>
+
+<br>
+
+Legal information should be understandable.
+
+This project uses Generative AI to simplify legal procedures and explain legal documents in plain language.
+
+---
+
+### Features
+
+- Legal Chatbot
+- Document Understanding
+- Law Summaries
+- AI Guidance
+
+---
+
+### Stack
+
+FastAPI • Gemini • PostgreSQL
+
+</details>
+
+---
+
+<details>
+
+<summary>
+
+# 📚 AI Study Planner
+
+### Personalized Learning Assistant
+
+</summary>
+
+<br>
+
+An AI-powered study companion that creates personalized study schedules based on learning goals and available time.
+
+---
+
+### Features
+
+- AI Scheduling
+- Smart Revision
+- Progress Tracking
+- Goal Management
+
+---
+
+### Stack
+
+Android • Firebase • Gemini
+
+</details>
+
+---
+
+# 🏆 Open Source Contributions
+
+## 🌍 GirlScript Summer of Code (GSSoC)
+
+### Highlights
+
+- Contributed to open-source repositories
+- Improved project documentation
+- Fixed issues and implemented features
+- Collaborated with maintainers and contributors
+
+---
+
+## 💻 EaseMotion CSS
+
+Contributed UI improvements and community enhancements.
+
+---
+
+# 🎤 Leadership
+
+## Event Head — Prompt Wars
+
+Organized and managed an AI Prompt Engineering competition under the Zero Error Coding Club.
+
+### Responsibilities
+
+- Event Planning
+- Technical Coordination
+- Participant Management
+- Judging Workflow
+- Community Engagement
+
+---
+
+# 📈 What I'm Building Towards
+
+```yaml
+mission:
+  Build production-ready AI products that improve everyday life.
+
+vision:
+  Become an AI Product Engineer building software at global scale.
+
+currently:
+  - AI Medical Report Analyzer
+  - CarbonCoach AI
+  - AgroAI
+
+next:
+  - Multi-Agent Systems
+  - SaaS Products
+  - AI Infrastructure
+```
+
+---
