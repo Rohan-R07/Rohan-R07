@@ -319,357 +319,258 @@ Every project I build follows the same mindset:
 <details open>
 <summary>
 
-# 🩺 AI Medical Report Analyzer
-
-### Production AI Healthcare Platform
-
-</summary>
-
-<br>
-
-### 📖 Overview
-
-The **AI Medical Report Analyzer** is an intelligent healthcare assistant that helps users understand complex medical reports using Large Language Models.
-
-Instead of overwhelming users with technical terminology, the platform extracts information from pathology reports and provides simplified explanations, health insights, and AI-generated recommendations.
 
 ---
 
-### 🎯 Problem Statement
+# 🚀 Featured Projects
 
-Reading medical reports can be difficult for patients without a medical background.
+<details open>
+<summary><b>🩺 AI Medical Report Analyzer</b></summary>
 
-Most reports contain technical terminology that often leads to confusion and unnecessary anxiety.
+Production-ready AI application that analyzes blood test reports using **Gemini**, providing simplified medical insights, abnormal parameter detection, and downloadable reports.
 
-This project bridges the gap between complex healthcare data and understandable insights.
+| Category | Details |
+|----------|---------|
+| **Tech Stack** | Python • FastAPI • Gemini • Next.js • PostgreSQL |
+| **Focus** | Healthcare AI |
+| **Features** | PDF Upload • AI Analysis • Medical Insights • Report Generation |
+| **Status** | 🚧 Active Development |
+| **Repository** | *Coming Soon* |
 
----
-
-### 💡 Solution
-
-The application combines PDF processing, structured data extraction, and Generative AI to create an interactive healthcare assistant capable of:
-
-- Understanding pathology reports
-- Explaining biomarkers
-- Highlighting abnormal values
-- Suggesting lifestyle improvements
-- Providing educational insights
-
----
-
-## 🏗 Architecture
-
-```text
-                PDF Upload
-                     │
-                     ▼
-            Text Extraction
-                     │
-                     ▼
-            Parameter Detection
-                     │
-                     ▼
-            Gemini AI Analysis
-                     │
-                     ▼
-          Structured Report
-                     │
-                     ▼
-          Interactive Dashboard
-```
-
----
-
-## ✨ Features
-
-| Feature | Status |
-|----------|:------:|
-| PDF Upload | ✅ |
-| AI Report Summary | ✅ |
-| CBC Analysis | ✅ |
-| Biomarker Detection | ✅ |
-| Gemini Integration | ✅ |
-| FastAPI Backend | ✅ |
-| PostgreSQL Database | ✅ |
-| Authentication | 🚧 |
-| Report History | 🚧 |
-
----
-
-## 🛠 Tech Stack
-
-| Layer | Technology |
-|---------|------------|
-| Frontend | Next.js |
-| Backend | FastAPI |
-| AI | Gemini |
-| Database | PostgreSQL |
-| Authentication | JWT |
-| Deployment | Render + Vercel |
-
----
-
-## 📈 Impact
-
-✔ Simplifies medical reports
-
-✔ AI-powered explanations
-
-✔ Healthcare accessibility
-
-✔ Production backend
-
-✔ Scalable architecture
-
----
-
-## 🔮 Future Roadmap
-
-- OCR Support
-- Doctor Dashboard
-- Multi-language Reports
-- AI Health Chat
-- Medical History Timeline
-
----
-
-### ⭐ Repository
-
-> *(Add Repository Link)*
+> Designed to make complex medical reports easier to understand for everyone through AI-powered analysis.
 
 </details>
 
 ---
 
 <details>
+<summary><b>🌱 CarbonCoach AI</b></summary>
 
-<summary>
+An AI-powered sustainability platform that helps users estimate, understand, and reduce their carbon footprint through personalized recommendations.
 
-# 🌱 CarbonCoach AI
+| Category | Details |
+|----------|---------|
+| **Tech Stack** | Next.js • FastAPI • Gemini • Firebase |
+| **Focus** | Sustainability |
+| **Features** | Carbon Tracking • AI Suggestions • Progress Dashboard |
+| **Status** | 🚧 Active Development |
+| **Repository** | *Coming Soon* |
 
-### AI Sustainability Platform
-
-</summary>
-
-<br>
-
-### 📖 Overview
-
-CarbonCoach AI empowers individuals to understand and reduce their carbon footprint through intelligent AI-driven recommendations.
-
----
-
-### 🎯 Goal
-
-Encourage sustainable living by helping users make informed environmental decisions.
-
----
-
-## ✨ Features
-
-- Carbon Footprint Tracking
-- Personalized Recommendations
-- Sustainability Score
-- AI Insights
-- Daily Eco Challenges
-
----
-
-## 🛠 Tech Stack
-
-| Layer | Technology |
-|---------|------------|
-| Mobile | Android |
-| AI | Gemini |
-| Backend | Firebase |
-| Database | Firestore |
-
----
-
-## 🚀 Future Plans
-
-- Community Challenges
-- Carbon Leaderboard
-- AI Coach
-- Smart Tracking
-
----
-
-### ⭐ Repository
-
-> *(Add Repository Link)*
+> Encouraging sustainable living by making environmental impact measurable and actionable.
 
 </details>
 
 ---
 
 <details>
+<summary><b>🌾 AgroAI</b></summary>
 
-<summary>
+AI assistant built to support farmers by providing crop-related insights, recommendations, and intelligent guidance using modern AI technologies.
 
-# 🌾 AgroAI
+| Category | Details |
+|----------|---------|
+| **Tech Stack** | Python • FastAPI • Gemini |
+| **Focus** | Agriculture |
+| **Features** | Crop Guidance • AI Chat • Smart Recommendations |
+| **Status** | 🚧 In Progress |
+| **Repository** | *Coming Soon* |
 
-### AI for Smart Agriculture
-
-</summary>
-
-<br>
-
-### 📖 Overview
-
-AgroAI is designed to assist farmers with intelligent recommendations, crop insights, and agricultural guidance using AI.
-
----
-
-### Features
-
-- Crop Guidance
-- Disease Identification
-- AI Chat
-- Smart Recommendations
-- Farmer Assistance
-
----
-
-### Stack
-
-FastAPI • Gemini • Firebase • Next.js
-
----
-
-### Future
-
-- Image Detection
-- Weather Integration
-- Soil Analysis
-
----
+> Leveraging AI to make farming knowledge more accessible and data-driven.
 
 </details>
 
 ---
 
 <details>
+<summary><b>⚖️ AI Legal Aid Assistant</b></summary>
 
-<summary>
+An AI-powered legal assistant designed to simplify legal concepts, explain rights, and assist users in understanding legal documents.
 
-# ⚖️ AI Legal Assistant
+| Category | Details |
+|----------|---------|
+| **Tech Stack** | Python • FastAPI • Gemini |
+| **Focus** | Legal Technology |
+| **Features** | Legal Q&A • Document Assistance • AI Guidance |
+| **Status** | 💡 Prototype |
+| **Repository** | *Coming Soon* |
 
-### Making Legal Knowledge Accessible
-
-</summary>
-
-<br>
-
-Legal information should be understandable.
-
-This project uses Generative AI to simplify legal procedures and explain legal documents in plain language.
-
----
-
-### Features
-
-- Legal Chatbot
-- Document Understanding
-- Law Summaries
-- AI Guidance
-
----
-
-### Stack
-
-FastAPI • Gemini • PostgreSQL
+> Making legal information easier to access through conversational AI.
 
 </details>
 
 ---
 
 <details>
+<summary><b>📚 AI Study Planner</b></summary>
 
-<summary>
+Smart study planning application that generates personalized learning schedules, tracks progress, and improves productivity using AI.
 
-# 📚 AI Study Planner
+| Category | Details |
+|----------|---------|
+| **Tech Stack** | Kotlin • Firebase • Gemini |
+| **Focus** | Education |
+| **Features** | Smart Scheduling • Goal Tracking • AI Planning |
+| **Status** | 💡 Prototype |
+| **Repository** | *Coming Soon* |
 
-### Personalized Learning Assistant
-
-</summary>
-
-<br>
-
-An AI-powered study companion that creates personalized study schedules based on learning goals and available time.
-
----
-
-### Features
-
-- AI Scheduling
-- Smart Revision
-- Progress Tracking
-- Goal Management
-
----
-
-### Stack
-
-Android • Firebase • Gemini
+> Helping students learn smarter with AI-assisted planning.
 
 </details>
 
 ---
 
-# 🏆 Open Source Contributions
+# 🌍 Open Source
 
-## 🌍 GirlScript Summer of Code (GSSoC)
+### 🌟 GirlScript Summer of Code 2026 (GSSoC)
 
-### Highlights
+Selected as a **Contributor** for **GirlScript Summer of Code 2026**, one of India's largest open-source programs. During the program, I collaborated with project maintainers, contributed to real-world repositories, and strengthened my experience with Git workflows and collaborative software development.
 
-- Contributed to open-source repositories
-- Improved project documentation
-- Fixed issues and implemented features
-- Collaborated with maintainers and contributors
+#### Highlights
 
----
+- ✅ Successfully contributed to multiple open-source repositories.
+- 🔀 Submitted and merged pull requests.
+- 🐞 Fixed bugs and implemented new features.
+- 📖 Improved documentation and project quality.
+- 🤝 Collaborated with maintainers through GitHub workflows.
 
-## 💻 EaseMotion CSS
+#### Notable Contributions
 
-Contributed UI improvements and community enhancements.
+- EaseMotion CSS
+- Community issue fixes
+- Documentation improvements
+- UI enhancements
 
----
-
-# 🎤 Leadership
-
-## Event Head — Prompt Wars
-
-Organized and managed an AI Prompt Engineering competition under the Zero Error Coding Club.
-
-### Responsibilities
-
-- Event Planning
-- Technical Coordination
-- Participant Management
-- Judging Workflow
-- Community Engagement
+> Open source has helped me become a better engineer by improving my collaboration, code review, and software development practices.
 
 ---
 
-# 📈 What I'm Building Towards
+# 🏆 Achievements
+
+| Achievement | Organization |
+|-------------|--------------|
+| 🌍 GirlScript Summer of Code 2026 Contributor | GirlScript Foundation |
+| 🤖 Google AI Hackathon Participant | Google |
+| 🎮 Google Arcade Facilitator | Google |
+| 💼 IBM SkillBuild × 1M1B Virtual Internship | IBM |
+| 🚀 Infosys Springboard 7.0 Virtual Internship | Infosys |
+| 🎤 Event Head – Prompt Wars | Zero Error Coding Club |
+| 🤝 Microsoft Learn Community Activities | Microsoft |
+| 💻 Active Hackathon Participant | Various Organizations |
+
+---
+
+# 📚 Learning & Certifications
+
+### Currently Learning
+
+- 🤖 Agentic AI
+- 🔄 LangGraph
+- 🧠 Model Context Protocol (MCP)
+- 📦 Distributed Systems
+- ☁️ Cloud-Native AI Development
+
+### Industry Programs
+
+- IBM SkillBuild × 1M1B
+- Infosys Springboard 7.0
+- Google AI Learning Programs
+- Oracle AI Learning
+- Microsoft Learn
+- Google Arcade Facilitator
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rohan-R07&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img width="48%" src="https://streak-stats.demolab.com?user=Rohan-R07&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan-R07&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Rohan-R07&theme=tokyonight&no-frame=true&column=4"/>
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohan-R07&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Rohan-R07/Rohan-R07/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+# 🎯 Current Focus
 
 ```yaml
-mission:
-  Build production-ready AI products that improve everyday life.
-
-vision:
-  Become an AI Product Engineer building software at global scale.
-
-currently:
+building:
   - AI Medical Report Analyzer
   - CarbonCoach AI
   - AgroAI
 
-next:
+learning:
+  - LangGraph
+  - MCP
   - Multi-Agent Systems
-  - SaaS Products
+
+exploring:
   - AI Infrastructure
+  - Scalable Backend Systems
+  - Product Engineering
+
+open_to:
+  - AI Engineering Internships
+  - Open Source Collaboration
+  - Hackathons
 ```
 
 ---
+
+# 📫 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/Rohan-R07">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+<i>"Building AI-powered products that create real-world impact."</i>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24,30"/>
+</p>
