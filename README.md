@@ -139,6 +139,14 @@ Every project I build follows the same mindset:
 
 ---
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Rohan-R07&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+![](https://streak-stats.demolab.com/?user=Rohan-R07&theme=ocean_dark&hide_border=false)<br/>
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rohan-R07&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
 # 📈 AI Engineer Dashboard
 
 | Focus | Details |
@@ -154,17 +162,6 @@ Every project I build follows the same mindset:
 
 ---
 
-# 💼 Open To
-
-- AI Engineering Internships
-- Product Engineering Roles
-- Open Source Collaboration
-- Hackathons
-- Research Projects
-- Startup Opportunities
-
----
-
 
 # ⚡ Tech Stack
 
@@ -175,7 +172,6 @@ Every project I build follows the same mindset:
 </p>
 
 ---
-
 ## 📱 Mobile Development
 
 <p align="center">
@@ -309,17 +305,6 @@ Every project I build follows the same mindset:
 - Antigravity AI
 
 
-
-# 🚀 Featured Products
-
-> *Building AI-powered software that solves real-world problems across healthcare, sustainability, education, and legal technology.*
-
----
-
-<details open>
-<summary>
-
-
 ---
 
 # 🚀 Featured Projects
@@ -421,8 +406,6 @@ Smart study planning application that generates personalized learning schedules,
 
 # 🌍 Open Source
 
-### 🌟 GirlScript Summer of Code 2026 (GSSoC)
-
 Selected as a **Contributor** for **GirlScript Summer of Code 2026**, one of India's largest open-source programs. During the program, I collaborated with project maintainers, contributed to real-world repositories, and strengthened my experience with Git workflows and collaborative software development.
 
 #### Highlights
@@ -433,12 +416,16 @@ Selected as a **Contributor** for **GirlScript Summer of Code 2026**, one of Ind
 - 📖 Improved documentation and project quality.
 - 🤝 Collaborated with maintainers through GitHub workflows.
 
-#### Notable Contributions
+  
+#### 🔗 Notable Contributions
 
-- EaseMotion CSS
-- Community issue fixes
-- Documentation improvements
-- UI enhancements
+| Project | Contribution | Repository |
+|:--------|:-------------|:----------:|
+| **EaseMotion CSS** | UI improvements, bug fixes, documentation | [🔗 Repository](https://github.com/SAPTARSHI-coder/EaseMotion-css) |
+| **Find** | Feature implementation & issue fixes | [🔗 Repository](https://github.com/Abhash-Chakraborty/Find) |
+| **samdev-pulse** | Documentation improvements | [🔗 Repository](https://github.com/SamXop123/samdev-pulse) |
+| **SecuScan** | UI enhancements | [🔗 Repository](https://github.com/utksh1/SecuScan) |
+| **Story Spark AI** | UI enhancements | [🔗 Repository](https://github.com/ronisarkarexe/story-spark-ai) |
 
 > Open source has helped me become a better engineer by improving my collaboration, code review, and software development practices.
 
@@ -449,11 +436,10 @@ Selected as a **Contributor** for **GirlScript Summer of Code 2026**, one of Ind
 | Achievement | Organization |
 |-------------|--------------|
 | 🌍 GirlScript Summer of Code 2026 Contributor | GirlScript Foundation |
-| 🤖 Google AI Hackathon Participant | Google |
+| 🤖 Google Gen AI Academy APAC Edition Chort 1 Participant | Google |
 | 🎮 Google Arcade Facilitator | Google |
 | 💼 IBM SkillBuild × 1M1B Virtual Internship | IBM |
 | 🚀 Infosys Springboard 7.0 Virtual Internship | Infosys |
-| 🎤 Event Head – Prompt Wars | Zero Error Coding Club |
 | 🤝 Microsoft Learn Community Activities | Microsoft |
 | 💻 Active Hackathon Participant | Various Organizations |
 
@@ -471,34 +457,6 @@ Selected as a **Contributor** for **GirlScript Summer of Code 2026**, one of Ind
 
 ### Industry Programs
 
-- IBM SkillBuild × 1M1B
-- Infosys Springboard 7.0
-- Google AI Learning Programs
-- Oracle AI Learning
-- Microsoft Learn
-- Google Arcade Facilitator
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rohan-R07&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img width="48%" src="https://streak-stats.demolab.com?user=Rohan-R07&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan-R07&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Rohan-R07&theme=tokyonight&no-frame=true&column=4"/>
-</p>
-
 ---
 
 # 📈 Contribution Activity
@@ -506,40 +464,6 @@ Selected as a **Contributor** for **GirlScript Summer of Code 2026**, one of Ind
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohan-R07&theme=tokyo-night&hide_border=true"/>
 </p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Rohan-R07/Rohan-R07/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-# 🎯 Current Focus
-
-```yaml
-building:
-  - AI Medical Report Analyzer
-  - CarbonCoach AI
-  - AgroAI
-
-learning:
-  - LangGraph
-  - MCP
-  - Multi-Agent Systems
-
-exploring:
-  - AI Infrastructure
-  - Scalable Backend Systems
-  - Product Engineering
-
-open_to:
-  - AI Engineering Internships
-  - Open Source Collaboration
-  - Hackathons
-```
 
 ---
 
@@ -551,16 +475,12 @@ open_to:
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN">
+<a href="2007-rohan-r">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:2007rohanrajesh@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </p>
