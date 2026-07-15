@@ -1,301 +1,160 @@
-# Hi there, I'm Rohan R `<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">`{=html}
+<!-- ========================= HEADER ========================= -->
 
-```{=html}
 <p align="center">
-```
-`<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF,7F5AF0,4F46E5&height=220&section=header&text=Rohan%20R&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>`{=html}
-```{=html}
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=Rohan%20R&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Software%20Engineer%20•%20Android%20Developer%20•%20Open%20Source%20Contributor&descAlignY=58" />
 </p>
-```
-```{=html}
+
 <p align="center">
-```
-`<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=900&lines=AI+Software+Engineer;Android+Developer;FastAPI+%7C+Python+%7C+Kotlin;Building+Production-Grade+AI+Products;Open+Source+Contributor"/>`{=html}
-```{=html}
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=2500&pause=1200&color=8A5CF6&center=true&vCenter=true&random=false&width=950&lines=AI+Software+Engineer;Android+Developer;Building+Production-Grade+AI+Applications;FastAPI+%7C+Python+%7C+Kotlin;Generative+AI+Engineer;Open+Source+Contributor;Always+Building.+Always+Learning."/>
 </p>
-```
-```{=html}
+
 <p align="center">
-```
-![](https://img.shields.io/badge/AI-Engineer-6C63FF?style=for-the-badge)
-![](https://img.shields.io/badge/Android-Jetpack%20Compose-7F5AF0?style=for-the-badge)
-![](https://img.shields.io/badge/Open%20Source-GSSoC-blueviolet?style=for-the-badge)
-![](https://img.shields.io/badge/FastAPI-Python-4F46E5?style=for-the-badge)
 
-```{=html}
+<a href="https://github.com/Rohan-R07">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/2007-rohan-r">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:2007rohanrajesh@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
-```
-```{=html}
+
 <p align="center">
-```
-`<a href="https://github.com/Rohan-R07">`{=html}`<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>`{=html}`</a>`{=html}
-`<a href="https://www.linkedin.com/">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>`{=html}`</a>`{=html}
-`<a href="mailto:your@email.com">`{=html}`<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>`{=html}`</a>`{=html}
 
-```{=html}
+<img src="https://komarev.com/ghpvc/?username=Rohan-R07&style=for-the-badge&color=7F5AF0"/>
+
+<img src="https://img.shields.io/github/followers/Rohan-R07?style=for-the-badge&color=7F5AF0"/>
+
+<img src="https://img.shields.io/github/stars/Rohan-R07?affiliations=OWNER&style=for-the-badge&color=7F5AF0"/>
+
 </p>
-```
-
-------------------------------------------------------------------------
-
-# About Me
-
-I am an engineering student focused on building **production-ready AI
-software** rather than demos.
-
-My interests span:
-
--   AI Agents
--   Generative AI
--   Native Android Development
--   FastAPI Backend Engineering
--   Full Stack AI Applications
--   Open Source
--   Product Engineering
-
-## Open To
-
--   AI Engineering Internships
--   Open Source Collaboration
--   Hackathons
--   Research Projects
-
-------------------------------------------------------------------------
-
-# Tech Stack
-
-  Category    Technologies
-  ----------- -------------------------------------------------
-  Languages   Kotlin • Python • C++ • JavaScript • TypeScript
-  Android     Jetpack Compose • Material 3
-  Backend     FastAPI • REST APIs
-  AI          Gemini • Hugging Face • Genkit • RAG
-  Cloud       Firebase • Render • Vercel • GitHub Actions
-
-------------------------------------------------------------------------
-
-# AI / ML Expertise
-
-  Domain             Level          Details
-  ------------------ -------------- -------------------------
-  LLM Applications   Advanced       Gemini, Hugging Face
-  AI Agents          Intermediate   Agentic workflows
-  RAG                Intermediate   Retrieval pipelines
-  Android AI         Advanced       AI-powered Android apps
-  Backend AI         Advanced       FastAPI inference APIs
-
-------------------------------------------------------------------------
-
-# Featured Projects
-
-```{=html}
-<details>
-```
-```{=html}
-<summary>
-```
-`<b>`{=html}🩺 AI Medical Report Analyzer`</b>`{=html}
-```{=html}
-</summary>
-```
-Production AI system for analyzing medical reports using LLMs.
 
-  Stack                       Performance   Impact
-  --------------------------- ------------- ---------------
-  FastAPI • Python • Gemini   Optimized     Healthcare AI
+---
 
-```{=html}
-</details>
-```
-```{=html}
-<details>
-```
-```{=html}
-<summary>
-```
-`<b>`{=html}🌱 AgroAI`</b>`{=html}
-```{=html}
-</summary>
-```
-AI assistant for agriculture.
+# 💫 Hello, I'm Rohan
 
-```{=html}
-</details>
-```
-```{=html}
-<details>
-```
-```{=html}
-<summary>
-```
-`<b>`{=html}📚 AI Study Planner`</b>`{=html}
-```{=html}
-</summary>
-```
-AI-powered personalized learning planner.
+I'm an **AI Software Engineer** and **Native Android Developer** passionate about building intelligent software that solves real-world problems.
 
-```{=html}
-</details>
-```
-```{=html}
-<details>
-```
-```{=html}
-<summary>
-```
-`<b>`{=html}⚖️ AI Legal Aid Agent`</b>`{=html}
-```{=html}
-</summary>
-```
-Legal guidance assistant using LLMs.
+Rather than creating AI demos, I focus on **production-ready AI systems** that combine modern backend engineering, mobile development, cloud infrastructure, and Large Language Models into products people can actually use.
 
-```{=html}
-</details>
-```
+Over the past few years my journey has evolved from Android development into building end-to-end AI applications across healthcare, agriculture, education, legal technology, and sustainability.
 
-------------------------------------------------------------------------
+My long-term vision is to become a **Product Engineer** who designs, builds, deploys, and scales AI-powered software capable of creating meaningful impact.
 
-# Experience
+---
 
-### Event Head --- Prompt Wars
+# 🚀 Engineering Philosophy
 
-Zero Error Coding Club
+> **"Software shouldn't exist just to demonstrate technology. It should solve problems that people genuinely face."**
 
--   Organized AI prompt engineering competition
--   Managed participants and judging
--   Led technical execution
+Every project I build follows the same mindset:
 
-**Skills:** Leadership • AI • Event Management
+- Build products, not tutorials.
+- Write clean, scalable, maintainable code.
+- Prioritize user experience alongside engineering.
+- Learn continuously by shipping real software.
+- Contribute back to the developer community.
 
-------------------------------------------------------------------------
+---
 
-# Achievements
+# 🎯 What I'm Focused On
 
-  Recognition         Details
-  ------------------- ---------------------------
-  GSSoC Contributor   Open Source Contributions
-  Hackathon Builder   AI Products
-  Community Leader    Prompt Wars
+<table>
 
-------------------------------------------------------------------------
+<tr>
 
-# Certifications
+<td width="50%">
 
-### Oracle
+### 🤖 Artificial Intelligence
 
-Coming Soon
+- Large Language Models
+- Agentic AI
+- RAG Systems
+- AI Workflows
+- Prompt Engineering
+- AI Product Development
 
-### AWS
+</td>
 
-Coming Soon
+<td width="50%">
 
-### Cisco
+### 📱 Software Engineering
 
-Coming Soon
+- Android Development
+- Backend Engineering
+- REST APIs
+- Cloud Deployment
+- System Design
+- Open Source
 
-### NPTEL
+</td>
 
-Coming Soon
+</tr>
 
-------------------------------------------------------------------------
+</table>
 
-# Coding Profiles
+---
 
-```{=html}
-<p align="center">
-```
-`<a href="#">`{=html}`<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>`{=html}`</a>`{=html}
-`<a href="#">`{=html}`<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-darkgreen?style=for-the-badge"/>`{=html}`</a>`{=html}
-`<a href="#">`{=html}`<img src="https://img.shields.io/badge/HackerRank-Profile-brightgreen?style=for-the-badge&logo=hackerrank"/>`{=html}`</a>`{=html}
-`<a href="#">`{=html}`<img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge"/>`{=html}`</a>`{=html}
+# 🌍 Domains I'm Building For
 
-```{=html}
-</p>
-```
+<table>
 
-------------------------------------------------------------------------
+<tr>
+<td>🩺 Healthcare AI</td>
+<td>Medical Report Analysis</td>
+</tr>
 
-# GitHub Analytics
+<tr>
+<td>⚖️ Legal Technology</td>
+<td>AI Legal Assistant</td>
+</tr>
 
-```{=html}
-<p align="center">
-```
-`<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rohan-R07&show_icons=true&theme=tokyonight"/>`{=html}
+<tr>
+<td>🌾 Agriculture</td>
+<td>AI Farming Solutions</td>
+</tr>
 
-`<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohan-R07&theme=tokyonight"/>`{=html}
+<tr>
+<td>📚 Education</td>
+<td>Personalized Learning Systems</td>
+</tr>
 
-`<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan-R07&layout=compact&theme=tokyonight"/>`{=html}
+<tr>
+<td>🌱 Sustainability</td>
+<td>CarbonCoach AI</td>
+</tr>
 
-```{=html}
-</p>
-```
+</table>
 
-------------------------------------------------------------------------
+---
 
-# GitHub Trophies
-
-```{=html}
-<p align="center">
-```
-`<img src="https://github-profile-trophy.vercel.app/?username=Rohan-R07&theme=tokyonight&column=4"/>`{=html}
-
-```{=html}
-</p>
-```
-
-------------------------------------------------------------------------
-
-# Contribution Activity
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=Rohan-R07&theme=tokyo-night)
-
-------------------------------------------------------------------------
-
-# Snake Animation
-
-![](https://raw.githubusercontent.com/Rohan-R07/Rohan-R07/output/github-contribution-grid-snake.svg)
-
-------------------------------------------------------------------------
-
-# Current Focus
-
-``` yaml
-learning:
-  - LangGraph
-  - MCP
-  - Distributed Systems
-
-building:
-  - AI Medical Report Analyzer
-  - AgroAI
-
-exploring:
-  - Multi-Agent Systems
-  - AI Infrastructure
-
-open_to:
-  - AI Internships
-  - Open Source
-  - Hackathons
-```
-
-------------------------------------------------------------------------
-
-# Connect
-
--   GitHub: https://github.com/Rohan-R07
--   LinkedIn: https://linkedin.com/in/YOUR-LINK
--   Email: your@email.com
--   Portfolio: Coming Soon
-
-------------------------------------------------------------------------
-
-> *"Build software that creates impact---not just impressions."*
-
-```{=html}
-<p align="center">
-```
-`<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF,7F5AF0,4F46E5&height=120&section=footer"/>`{=html}
-```{=html}
-</p>
-```
+# 📈 AI Engineer Dashboard
+
+| Focus | Details |
+|--------|---------|
+| Primary Role | AI Software Engineer |
+| Mobile | Native Android (Jetpack Compose) |
+| Backend | FastAPI • Python |
+| AI Stack | Gemini • Hugging Face • Genkit |
+| Cloud | Firebase • Render • Vercel |
+| Interests | Agentic AI • RAG • LLM Applications |
+| Currently Building | AI Medical Report Analyzer |
+| Long-Term Goal | Product Engineer & AI Founder |
+
+---
+
+# 💼 Open To
+
+- AI Engineering Internships
+- Product Engineering Roles
+- Open Source Collaboration
+- Hackathons
+- Research Projects
+- Startup Opportunities
+
+---
